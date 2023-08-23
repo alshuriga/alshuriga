@@ -3,7 +3,7 @@
 <h3 align="center">.NET developer, Poland</h3>  
   
 **Vurrently working on:**<br>
-- [The-Blog:](https://github.com/alshuriga/the-blog) a .NET web app for creating, publishing, and managing blog posts. Features user authentication, admin privileges, comments, and post filtering. Built with ASP.NET Core, EF Core, Angular, and Redis. 
+- [The-Blog:](https://github.com/alshuriga/the-blog) a .NET web app for creating, publishing, and managing blog posts. Features user authentication, admin privileges, comments, and post filtering. Built with ASP.NET Core, EF Core, Redis and Angular. 
 - [Patrick-Botman:](https://github.com/alshuriga/patrick-botman): a Telegram bot that adds text to a random GIF from popular public databases such as Giphy and Tenor.
 
 **Currently learning:**
