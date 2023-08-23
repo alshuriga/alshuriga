@@ -1,6 +1,6 @@
 
 <h1 align="center">Oleksandr Shuryha</h1>  
-<h3 align="center">.NET developer from Poland</h3>  
+<h3 align="center">.NET developer, Poland</h3>  
   
 I’m currently working on:<br>
 - [The-Blog:](https://github.com/alshuriga/the-blog) a .NET web app for creating, publishing, and managing blog posts. Features user authentication, admin privileges, comments, and post filtering. Built with ASP.NET Core, EF Core, Angular, and Redis. 
