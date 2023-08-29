@@ -3,7 +3,8 @@
 <h3 align="center">.NET developer, Poland</h3>  
   
 **Vurrently working on:**<br>
-- [The-Blog:](https://github.com/alshuriga/the-blog) a .NET web app for creating, publishing, and managing blog posts. Features user authentication, admin privileges, comments, and post filtering. Built with ASP.NET Core, EF Core, Redis and Angular. 
+- [The-Blog:](https://github.com/alshuriga/the-blog) a .NET web app for creating, publishing, and managing blog posts. Features user authentication, admin privileges, comments, and post filtering. Built with ASP.NET Core, EF Core, Redis and Angular.
+- [Book-Reviewer:](https://github.com/alshuriga/book-reviewer): an API built with microservices that provides users the ability to leave their own book reviews and subscribe to specific books to receive email notifications of new reviews. Technologies used include ASP.Net Core, MongoDB, RabbitMQ, Ocelot, Docker, and more.
 - [Patrick-Botman:](https://github.com/alshuriga/patrick-botman): a Telegram bot that adds text to a random GIF from popular public databases such as Giphy and Tenor.
 
 **Currently learning:**
