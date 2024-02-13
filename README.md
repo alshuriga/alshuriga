@@ -17,6 +17,7 @@
 - ASP.NET Core
 - Entity Framework Core
 - SQL/NoSQL Databases
+- Angular
 - Redis
 - Docker
 - Jenkins
