@@ -27,7 +27,4 @@
 **Connect with me:**
 <p align="left">  
 <a href="https://linkedin.com/in/oleksandr-shuryha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="oleksandr-shuryha" height="30" width="40" /></a>  
-</p>  
-
-<br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alshuriga&label=Profile%20views&color=0e75b6&style=flat" alt="alshuriga" /> </p>  
+</p> 
