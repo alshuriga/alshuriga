@@ -2,20 +2,11 @@
 
 Software Developer
 
-## Tech Stack
-- TypeScript / JavaScript
-- Node.js 
-- .NET 
-- AWS 
-- Azure 
-- MongoDB, MySQL
-- Docker
+## Stack
+TypeScript, JavaScript, Node.js, .NET  
+AWS, Azure  
+MongoDB, MySQL  
+Docker, Git
 
-## Skills
-- Backend development
-- REST APIs & microservices
-- Serverless architecture
-- Cloud integrations
-- Database design (SQL / NoSQL)
-- System integration
-- Automation & scripting
+## Focus
+Backend, APIs, serverless, integrations
